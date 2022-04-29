@@ -1,0 +1,6 @@
+Flask==1.1.2
+flask_marshmallow==0.14.0
+Flask_SQLAlchemy==2.5.1
+joblib==1.1.0
+keras==2.7.0
+gunicorn
